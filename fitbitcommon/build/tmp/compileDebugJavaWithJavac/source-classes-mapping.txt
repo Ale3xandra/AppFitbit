@@ -1,0 +1,8 @@
+com/fitbit/fitbitcommon/network/BasicHttpResponse.java
+ com.fitbit.fitbitcommon.network.BasicHttpResponse
+com/fitbit/fitbitcommon/network/BasicHttpRequest.java
+ com.fitbit.fitbitcommon.network.BasicHttpRequest
+com/fitbit/fitbitcommon/BuildConfig.java
+ com.fitbit.fitbitcommon.BuildConfig
+com/fitbit/fitbitcommon/network/BasicHttpRequestBuilder.java
+ com.fitbit.fitbitcommon.network.BasicHttpRequestBuilder
