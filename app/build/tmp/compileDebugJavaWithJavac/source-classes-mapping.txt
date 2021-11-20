@@ -1,0 +1,33 @@
+com/fitbit/sampleandroidoauth2/databinding/ActivityUserDataBinding.java
+ com.fitbit.sampleandroidoauth2.databinding.ActivityUserDataBinding
+com/fitbit/sampleandroidoauth2/fragments/InfoFragment.java
+ com.fitbit.sampleandroidoauth2.fragments.InfoFragment
+ com.fitbit.sampleandroidoauth2.fragments.InfoFragment$1
+com/fitbit/sampleandroidoauth2/DataBindingTriggerClass.java
+ com.fitbit.sampleandroidoauth2.DataBindingTriggerClass
+com/fitbit/sampleandroidoauth2/databinding/ActivityRootBinding.java
+ com.fitbit.sampleandroidoauth2.databinding.ActivityRootBinding
+com/fitbit/sampleandroidoauth2/RootActivity.java
+ com.fitbit.sampleandroidoauth2.RootActivity
+ com.fitbit.sampleandroidoauth2.RootActivity$1
+ com.fitbit.sampleandroidoauth2.RootActivity$2
+com/fitbit/sampleandroidoauth2/UserDataPagerAdapter.java
+ com.fitbit.sampleandroidoauth2.UserDataPagerAdapter
+com/fitbit/sampleandroidoauth2/fragments/ProfileFragment.java
+ com.fitbit.sampleandroidoauth2.fragments.ProfileFragment
+com/fitbit/sampleandroidoauth2/databinding/LayoutInfoBinding.java
+ com.fitbit.sampleandroidoauth2.databinding.LayoutInfoBinding
+com/fitbit/sampleandroidoauth2/FitbitAuthApplication.java
+ com.fitbit.sampleandroidoauth2.FitbitAuthApplication
+com/fitbit/sampleandroidoauth2/BuildConfig.java
+ com.fitbit.sampleandroidoauth2.BuildConfig
+com/fitbit/sampleandroidoauth2/fragments/DeviceFragment.java
+ com.fitbit.sampleandroidoauth2.fragments.DeviceFragment
+com/fitbit/sampleandroidoauth2/UserDataActivity.java
+ com.fitbit.sampleandroidoauth2.UserDataActivity
+ com.fitbit.sampleandroidoauth2.UserDataActivity$1
+ com.fitbit.sampleandroidoauth2.UserDataActivity$2
+com/fitbit/sampleandroidoauth2/fragments/ActivitiesFragment.java
+ com.fitbit.sampleandroidoauth2.fragments.ActivitiesFragment
+com/fitbit/sampleandroidoauth2/fragments/WeightLogFragment.java
+ com.fitbit.sampleandroidoauth2.fragments.WeightLogFragment
